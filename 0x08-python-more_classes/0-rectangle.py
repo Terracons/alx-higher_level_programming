@@ -1,4 +1,4 @@
-#!/bin/usr/python3
+#!/usr/bin/python3
 """ Rectangle class
 This mode contain empty python class
 
@@ -10,6 +10,9 @@ Usage example:
 
 
 class Rectangle:
-    """ docsting of class Rectangle"""
+    """
+    docsting of class Rectangle
+
+    """
 
     pass
