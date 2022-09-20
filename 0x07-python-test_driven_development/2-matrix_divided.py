@@ -5,6 +5,7 @@ div( float or int), but cannot be divided by
 zero
 """
 
+
 def matrix_divided(matrix, div):
     """matrix_divided
     Divide all element of matrix by
