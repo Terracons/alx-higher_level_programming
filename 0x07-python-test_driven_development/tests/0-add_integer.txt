@@ -28,13 +28,7 @@ Negative value and Float:
 Float and defualt value:
     >>> add_integer(1400.2)
     1498
-
-Float NAN value:
-    >>> add_integer(float('NaN'))
-    Traceback (most recent call last):
-    ...
-    ValueError: cannot convert float NaN to integer
-
+    
 Double float values:
     >>> add_integer(-2.2, -4.2)
     -6
