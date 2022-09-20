@@ -22,7 +22,7 @@ One value:
     200
 
 Negative value and Float:
-    >>>  add_integer(-2, 100.2)
+    >>> add_integer(-2, 100.2)
     98
 
 Float and defualt value:
